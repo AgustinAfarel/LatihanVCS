@@ -63,6 +63,14 @@ git config --global user.email
 
 ![git pict](Picture/GitClone.PNG)
 
+* Setelah cloning slesai, folder awal master harus masuk kedalam folder yang telah dicloning yaitu LatihanVCS dengan mengetikan syntax berikut:
+
+cd LatihanVCS/
+
+* Lalu edit file README.md yang ada di file explorer dengan menggunakan Texk Editor (Sublime Text, Notepad, Notepad++, Visual studio code) edit sesuai dengan keinginan aturan file .md(Markdown) seperti gambar dibawah ini:
+
+![git pict](Picture/VsCode.PNG)
+
 
 
 
