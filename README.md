@@ -24,6 +24,13 @@ MATKUL:BAHASA PEMROGRAMAN
 
 ![git pict](Picture/SyntaxGitVersion.PNG)
 
+* Jika tampilan git version muncul, git sudah berhasil di instal, langkah pertama kita harus mengkonfigurasi user name dan email di Git, dengan mengetikan syntax berikut:
+git config --global user.name"Masukan Nama"
+git config --global user.email"Masukan Email"
+
+![git pict](Picture/GitConfig.PNG)
+
+
 
 
 
