@@ -32,7 +32,13 @@ git config --global user.email"Masukan Email"
 ![git pict](Picture/GitConfig.PNG)
 
 * Setelah dibuat lakukan pengecekan dengan cara menulis syntax berikut:
-gi 
+
+
+git config --global user.name
+git config --global user.email
+
+![git pict](Picture/CekName.PNG)
+
 
 
 
