@@ -39,6 +39,10 @@ git config --global user.email
 
 ![git pict](Picture/CekName.PNG)
 
+* Buat akun di github seperti contoh dibawah ini. Dan lakukan verefikasi akun melalui email yang sudah terdaftar.
+
+![git pict](Picture/BuatAkun.PNG)
+
 
 
 
