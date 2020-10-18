@@ -19,7 +19,11 @@ MATKUL:BAHASA PEMROGRAMAN
 
 ![Git pict](Picture/GitGuide.PNG)
 
-* Setelah instalisasi ,buka software GitBush pada menu Windows,lakukan
+* Setelah instalisasi ,buka software GitBush pada menu Windows,lakukan pengecekan versi, dengan menetik syntax berikut:[git instalation guide]
+>git--version
+
+![git pict](Picture/SyntaxGitVersion)
+
 
 
 
