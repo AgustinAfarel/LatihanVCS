@@ -43,6 +43,16 @@ git config --global user.email
 
 ![git pict](Picture/BuatAkun.PNG)
 
+* Jika github sudah dibuat silahkan buat Repository seperti gambaar dibawah:
+
+![git pict](Picture/LangkahVerefikasi.PNG)
+
+* Jika sudah berhasil maka akan muncul gambar dibawah ini:
+
+![git pict](Picture/Repository.PNG)
+
+
+
 
 
 
