@@ -59,6 +59,11 @@ git config --global user.email
 
 ![git pict](Picture/KlikKanan.PNG)
 
+*Pop Up Commond Prompt akan terbuka. lakukan download file repository yang dibuat dengan syntax git clone.
+
+![git pict](Picture/GitClone.PNG)
+
+
 
 
 
