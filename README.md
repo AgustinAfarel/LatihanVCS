@@ -51,6 +51,10 @@ git config --global user.email
 
 ![git pict](Picture/Repository.PNG)
 
+* Setelah itu lakukan me-remote repository  Github pada GitBash Lokal dengan menyalin link URL git di Github seperti gambar dibawah ini:
+
+![git pict](Picture/LinkUrl)
+
 
 
 
