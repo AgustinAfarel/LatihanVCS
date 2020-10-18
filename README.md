@@ -17,5 +17,7 @@ MATKUL:BAHASA PEMROGRAMAN
 
 * Setelah file terdownload, lakukan instalisasi dengan referensi berikut ini :(https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-![Gambar Git Scm](picture/GitGuide.PNG)
+![Git pict](picture/GitGuide.PNG)
+
+
 
