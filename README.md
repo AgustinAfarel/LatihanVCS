@@ -55,6 +55,12 @@ git config --global user.email
 
 ![git pict](Picture/LinkUrl.PNG)
 
+* Setelah itu buka file explorer pada windows, pilih folder dimana kita akan mendownload repositroey dari Github ke lokal, klik kanan pilih Git bash here.
+
+![git pict](Picture/KlikKanan.PNG)
+
+
+
 
 
 
