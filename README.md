@@ -71,7 +71,19 @@ cd LatihanVCS/
 
 ![git pict](Picture/VsCode.PNG)
 
+* Setelah file README.md diedit, simpan file dengan cara CTRL+S atau File-> Save
 
+* Lalu ketik pada git bash dengan syntax
+> git add
+
+> git commit "update README.md"
+
+> git push
+
+*lalu cek hasil di github
+![git pict](Picture/Hasil.PNG)
+
+ 
 
 
 
