@@ -13,7 +13,7 @@ MATKUL:BAHASA PEMROGRAMAN
 
 *Download git dahulu, dengan link berikut ini : [click here](https://git-scm.com)
 
-![Gambar Git SCM](Picture/Git-Scm.png)
+![Gambar Git SCM](Picture/GitScm.PNG)
 
 
 
